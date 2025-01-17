@@ -1,0 +1,40 @@
+# Welcome to Jekyll!
+
+# Site settings
+title: MSQE Career Chronicles
+email: 
+description: >-
+  Testimonials of the ISI Kolkata MSQE Internship and Placement experiences.
+baseurl: "" # Leave empty if deploying to the root domain
+url: "" # Base URL of your site, e.g., http://example.com
+twitter_username: 
+github_username: 
+
+# Navigation links
+# summer_internships_url: "/summer_internships"
+# final_placements_url: "/final_placements"
+
+# Permalinks for clean URLs
+# permalink: /:categories/:title/
+
+# Build settings
+theme: minima
+
+# Plugins (uncomment if needed)
+# plugins:
+  # - jekyll-feed
+
+# Excluded directories/files from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Favicon settings
+# Ensure favicon.ico is in the root directory
