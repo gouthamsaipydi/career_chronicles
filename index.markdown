@@ -3,7 +3,6 @@ layout: home
 title: 
 ---
 
-## Namaste 
 
 This is an Initiative by the Students of ISI MSQE and it aims to make the interview experiences of students accessible online for the benefit of everyone.
 
