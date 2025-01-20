@@ -5,7 +5,7 @@ date: 2025-01-10 00:00:00 +0530
 categories: internship experience
 ---
 
-**Student Name:** Subham  
+**Student Name:** Subham Das 
 
 **Current Course:** MSQE  
 
