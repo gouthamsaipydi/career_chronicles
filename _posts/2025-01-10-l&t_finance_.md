@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "L&T Finance  Internship Experience"
+title: "L&T finance  Internship Experience"
 date: 2025-01-10 00:00:00 +0530
 categories: internship experience
 ---
 
-**Student Name:** Subham Das 
+**Student Name:** Subham Das
 
 **Current Course:** MSQE  
 
