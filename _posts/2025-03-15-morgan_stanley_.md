@@ -21,7 +21,7 @@ Aptitude followed by interview
 **Questions Asked in Online Aptitude Test (if applicable):**  
 There were multiple sections including logical, quant aptitude, english speaking and listening, coding
 
-**Number of Interview Rounds:**  
+**Number of Interview Rounds:**          
 2
 
 **Questions Asked in Round 1:**  

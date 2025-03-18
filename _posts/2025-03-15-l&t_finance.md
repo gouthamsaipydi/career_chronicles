@@ -39,7 +39,7 @@ Aptitude problems and ML questions
 
 
 **Job Role Experience:**  
-
+    
 
 **Suggestions for Candidates (including resources, books, websites):**  
 Revise ML basics, prepare your CV
