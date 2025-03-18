@@ -5,8 +5,8 @@ title: MSQE Career Chronicles
 email: 
 description: >-
   Testimonials of the ISI Kolkata MSQE Internship and Placement experiences.
-baseurl: "" # Leave empty if deploying to the root domain
-url: "" # Base URL of your site, e.g., http://example.com
+baseurl: "/career_chronicles" # Leave empty if deploying to the root domain
+url: "https://gouthamsaipydi.github.io/" # Base URL of your site, e.g., http://example.com
 twitter_username: 
 github_username: 
 
