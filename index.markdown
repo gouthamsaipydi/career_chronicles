@@ -10,3 +10,4 @@ This is an Initiative by the Students of ISI-K MSQE and it aims to make the inte
 We aim to create a comprehensive repository of internship and placement experiences that can serve as a guide for future aspirants.  
 
 By the students, for the students – let’s grow together! 
+
